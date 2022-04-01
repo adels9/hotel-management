@@ -1,0 +1,4 @@
+01 Jednokrevetna Prvi Nema Zauzeto 
+02 Dvokrevetna Prvi Nema Slobodno 
+03 Trokrevetna Drugi Nema Zauzeto 
+04 Jednokrevetna Drugi Nema Slobodno 

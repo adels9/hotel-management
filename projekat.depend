@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1608487561 source:c:\users\adel\desktop\projekat\main.cpp
+	"klase.h"
+
+1608495770 source:c:\users\adel\desktop\projekat\klase.cpp
+	"klase.h"
+
+1608495197 c:\users\adel\desktop\projekat\klase.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<unistd.h>
+	<windows.h>
+	<iomanip>
+
+1608487412 c:\users\adel\desktop\projekat\klase.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<unistd.h>
+	<windows.h>
+	"klase.h"
+
+1644369209 source:c:\users\adel smajlovic\desktop\projekat\klase.cpp
+	"klase.h"
+
+1644369209 c:\users\adel smajlovic\desktop\projekat\klase.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<unistd.h>
+	<windows.h>
+	<iomanip>
+
+1644369209 source:c:\users\adel smajlovic\desktop\projekat\main.cpp
+	"klase.h"
+
